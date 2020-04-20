@@ -15,61 +15,20 @@ This is actually an ongoing competition for learning purposes. It is a great one
 This work was done with my colleague Aayush Kejriwal, I here share the code we have written as well as the pdf guide summarizing our thinking. The code is organized as follows:
 
 ## A. Problem Description and Dataset
-#### A.1 Problem Description and Goal
-#### A.2 The Dataset
 
 ## B. Exploratory Data Analysis
-#### B.1 A general look at the Tweets' text
-##### B.1.1 The distributions of the Tweets' Length
-##### B.1.2 The distribution of the number of words 
-##### B.1.3 Looking at the Stop Words
-##### B.1.4 Looking at the most repeated words
-#### B.2 The Location of Tweets
-#### B.3 The Keywords column 
 
 ## C. Building Baseline Models
-####  C.1 RidgeClassifier Following Kaggle Tutorial
-#### C.2 Multinomial Naive Bayes Classifier
-#### C.3 Random Forrest Classifier
-#### C.4 Logistic Regression
-#### C.5 SVM
-#### C.6 Gradient Boosting Classifier
-#### C.7 KNN
-#### C.8 XGBoost Classifier
 
 ## D. Data Cleaning
 
-## E. Approach I: Basic Processing Methods
-#### E.1 Removing  stopwords
-#### E.2 N-Grams parameter
-#### E.3 Mislabeled entries
-#### E.4 Using the Keyword column to improve the performance
-#### E.5 Conclusion Approach I
+## E. Approach I: Basic Processing Methods (stopwords, N-Grams, Mislabeled entries)
 
-## F. Approach II: Tokenization, Stemming, Lemmatization and  TF - IDF
-#### F.1 Pre-cleaning
-#### F.2 Tokenization, Stemming, and Lematization
-#### F.3 Including the keywords into the text
-#### F.4 TF - IDF
-#### F.5 Running a SVM model with GridSearch
-#### F.6 Running a Logistic Regression model with Hyperparameter tunning
-#### F.7 Adding the words embeddings
-#### F.8 Trying POS Tagging
-#### F.9 Discussion: the better approach for considering the Keywords
+## F. Approach II: Tokenization, Stemming, Lemmatization and  TF - IDF, POS Tagging
 
 ## G. Approach III: Better Preprocessing with correction of Spelling Mistakes
-#### G.1 Running the Correct Spelling Function on the data
-#### G.2 Rerunning the models with the correct spelling
-##### G.2.1 Model 1 Rerun with spelling corrected
 
 ## H. Approach IV: Simple BERT implementation using the simpletransformers library
-#### H.1 BERT Model on raw data 
-#### H.2 BERT Model on cleaner data 
-#### H.3 BERT Model on cleaned and normalized data
-#### H.4 BERT Model on cleaned, normalized and relabeled data
-#### H.5 BERT Model on data corrected for spelling mistakes
-#### H.6 BERT Model on corrected spelling mistakes and normalized data
-#### H.7 BERT Model with spelling corrected, with stop words, and lemmatized
 
 ## I. Conlusions and Final Model chosen
 
