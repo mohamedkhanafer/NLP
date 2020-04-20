@@ -14,21 +14,21 @@ This is actually an ongoing competition for learning purposes. It is a great one
 
 This work was done with my colleague Aayush Kejriwal, I here share the code we have written as well as the pdf guide summarizing our thinking. The code is organized as follows:
 
-## A. Problem Description and Dataset
+#### A. Problem Description and Dataset
 
-## B. Exploratory Data Analysis
+#### B. Exploratory Data Analysis
 
-## C. Building Baseline Models
+#### C. Building Baseline Models
 
-## D. Data Cleaning
+#### D. Data Cleaning
 
-## E. Approach I: Basic Processing Methods (stopwords, N-Grams, Mislabeled entries)
+#### E. Approach I: Basic Processing Methods (stopwords, N-Grams, Mislabeled entries)
 
-## F. Approach II: Tokenization, Stemming, Lemmatization and  TF - IDF, POS Tagging
+#### F. Approach II: Tokenization, Stemming, Lemmatization and  TF - IDF, POS Tagging
 
-## G. Approach III: Better Preprocessing with correction of Spelling Mistakes
+#### G. Approach III: Better Preprocessing with correction of Spelling Mistakes
 
-## H. Approach IV: Simple BERT implementation using the simpletransformers library
+#### H. Approach IV: Simple BERT implementation using the simpletransformers library
 
-## I. Conlusions and Final Model chosen
+#### I. Conlusions and Final Model chosen
 
