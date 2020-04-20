@@ -10,6 +10,8 @@ ___
 We are given a dataset of almost 11,000 tweets. The objective is to classify these tweets on whether they are about real disasters or not. The complication comes because many tweets have words that would imply a disaster but are used metaphorically. Therefore, merely identifying the presence of such words would not guarantee that the tweet is in fact referring to an actual disaster.
 We have just three pieces of information to do this, the entire actual tweet, the key word in the text and the location from where the tweet has been made.
 
+This is actually an ongoing competition for learning purposes. It is a great one to learn from for anyone interested to explore NLP: https://www.kaggle.com/c/nlp-getting-started. 
+
 This work was done with my colleague Aayush Kejriwal, I here share the code we have written as well as the pdf guide summarizing our thinking. The code is organized as follows:
 
 ## A. Problem Description and Dataset
