@@ -37,9 +37,6 @@ We used and were inspired by the codes and ideas of [Himanshu Sharma](https://ww
 
 This work was done with my study group, comprising namely: Guillermo Chacon, Diego Cuartas, Esteban Delgado, Aayush Kerjiwal, Mariana Naváez, and Valentina Premoli. I here share the Report of our study, the notebook in which we develop the code, the final presentation, and the files that we used to build the Web Application using Flask.
 
-The welcome page allows the user to input the text or the URL containing the article/case/report to summarize:
-![WebApp interface](/3_Text_Summarizer_Web_App/webapp.png)
-
-The other page allows to see the output of various summarizers as seen here:
-![WebApp interface 2](/3_Text_Summarizer_Web_App/webapp2.png)
+The welcome page allows the user to input the text or the URL containing the article/case/report to summarize. And the other page allows to see the output of various summarizers as seen here:
+![WebApp interface](/3_Text_Summarizer_Web_App/webapp3.png)
 
