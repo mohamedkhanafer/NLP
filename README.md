@@ -41,5 +41,5 @@ The welcome page allows the user to input the text or the URL containing the art
 ![WebApp interface](/3_Text_Summarizer_Web_App/webapp.png)
 
 The other page allows to see the output of various summarizers as seen here:
-![WebApp interface 2](//3_Text_Summarizer_Web_App/webapp2.png)
+![WebApp interface 2](/3_Text_Summarizer_Web_App/webapp2.png)
 
